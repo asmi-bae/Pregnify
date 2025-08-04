@@ -37,17 +37,15 @@
 
 ## 🖼️ UI Demo
 
+### Authentication Pages
+![Login Page](ui-demo/Picture3.jpg)
+![Signup Page](ui-demo/Picture4.jpg)
+
 ### Dashboard Overview
 ![Dashboard](ui-demo/Picture1.jpg)
 
 ### Health Monitoring
 ![Health Monitoring](ui-demo/Picture2.jpg)
-
-### Doctor Consultation
-![Doctor Consultation](ui-demo/Picture3.jpg)
-
-### Nutrition Plan
-![Nutrition Plan](ui-demo/Picture4.jpg)
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
